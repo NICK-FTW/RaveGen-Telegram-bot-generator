@@ -7,7 +7,7 @@
    :alt: RaveGen Logo
    
 :raw-html:`<br />`
-https://heroku.com/deploy?template=https://github.com/xditya/TeleBot
+https://heroku.com/deploy?template=https://github.com/NICK-FTW/RaveGen-Telegram-bot-generator
 
 .. image:: https://img.shields.io/pypi/v/ravegen.svg
    :target: https://pypi.org/project/ravegen/
